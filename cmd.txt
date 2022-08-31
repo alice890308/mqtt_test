@@ -1,0 +1,11 @@
+# init ac
+{"cmd":"INIT_ID","ac_id":"1234568","version":"version2"}
+
+# init mkx
+{"cmd":"INIT_DEVICE","port":0,"id":"6","device_id":"device1"}
+
+# ac low voltage
+{"cmd":"LOW_VOL","id":"6"}
+
+# door timeout
+{"cmd":"DOOR_TIMEOUT","id":"6","door":"door1"}
